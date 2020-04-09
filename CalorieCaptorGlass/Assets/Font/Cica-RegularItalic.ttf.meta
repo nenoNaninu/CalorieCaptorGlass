@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3a32f7960ff7e6440a4ce13f59963b7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cica
+  fontNames:
+  - Cica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10f3430fc90baec4dbf26f3c50828773, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
